@@ -2,7 +2,6 @@
 - 👀 I’m interested in Full stack web devlopment 
 - 🌱 I’m currently learning Engineering at koneru lakshmaiah education foundation , vijayawada
 - 💞️ I’m looking to collaborate on ...
-- 😄 Pronouns: nani
 - currently working on react projects
 
 <!---
