@@ -8,6 +8,11 @@
 - 📖 Student at Nxtwave CCBP 4.0 Academy  
 - 🌱 Enthusiastic about exploring new technologies  
 
+## 🌍 Deployed Projects  
+- 🛒 [E-commerce Website for Farmers](https://e-commerce-fron-89rh.onrender.com/)  
+- 🎙️ [NxtTalks](https://rahuletyala.ccbp.tech/)  
+- 🍽️ [FoodFarm](https://rahuletyalafm.ccbp.tech/)  
+
 ## 🤝 Let's Connect  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/etyalarahul/)  
 - 🔢 [LeetCode](https://leetcode.com/u/klu2300032656/)  
