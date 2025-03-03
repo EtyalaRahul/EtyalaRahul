@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EtyalaRahul
 - 👀 I’m interested in Full stack web devlopment 
-- 🌱 I’m currently learning Engineering at koneru lakshmaiah education foundation , vijayawada
+- 🌱 I’m currently studying Engineering at koneru lakshmaiah education foundation , vijayawada
 - 💞️ I’m looking to collaborate on ...
 - currently working on react projects
 
