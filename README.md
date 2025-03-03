@@ -10,6 +10,8 @@
 
 ## 🤝 Let's Connect  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/etyalarahul/)  
+- 🔢 [LeetCode](https://leetcode.com/u/klu2300032656/)  
+- 📧 Email: rahuletyala@gmail.com  
 - 💡 Open to collaboration on exciting projects!  
 
 ---
