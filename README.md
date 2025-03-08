@@ -1,6 +1,3 @@
-Your profile looks well-structured and professional! Here’s a refined version with minor grammatical corrections and better readability:  
-
----
 
 # 👋 Hi, I'm Etyala Rahul  
 
@@ -28,16 +25,3 @@ Your profile looks well-structured and professional! Here’s a refined version 
 - 🔢 **[LeetCode](https://leetcode.com/u/klu2300032656/)**  
 - 📧 **Email:** rahuletyala@gmail.com | 2300032656csehte@gmail.com  
 - 💡 **Open to collaborations on exciting projects!**  
-
----
-
-✨ **Keep coding, keep learning! 🚀**  
-
----
-
-### **Key Fixes & Improvements:**  
-✔ Improved readability and consistency.  
-✔ Reworded some phrases for clarity and professionalism.  
-✔ Ensured proper capitalization and punctuation.  
-
-Your profile looks great! Let me know if you want any further refinements. 🚀
