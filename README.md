@@ -20,6 +20,6 @@
 - 🔢 [LeetCode](https://leetcode.com/u/klu2300032656/)  
 - 📧 Email: rahuletyala@gmail.com , 2300032656csehte@gmail.com 
 - 💡 Open to collaboration on exciting projects!  
-[![GitHub Streak](https://streak-stats.demolab.com/EtyalaRahul=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/EtyalaRahulDenverCoder1)](https://git.io/streak-stats)
 ---
 ✨ Keep coding, keep learning! 🚀  
