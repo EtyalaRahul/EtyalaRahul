@@ -23,5 +23,6 @@
 ## 🤝 Let's Connect  
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/etyalarahul/)**  
 - 🔢 **[LeetCode](https://leetcode.com/u/klu2300032656/)**  
-- 📧 **Email:** rahuletyala@gmail.com | 2300032656csehte@gmail.com  
+- 📧 **Email:** rahuletyala@gmail.com | 2300032656csehte@gmail.com
+- ![profile views](https://komarev.com/ghpvc/?username=EtyalaRahulyour-github-username)
 - 💡 **Open to collaborations on exciting projects!**  
