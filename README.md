@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Etyala Rahul  
 
 ## 🚀 About Me  
@@ -16,13 +15,13 @@
 - 🌐 **[Portfolio](https://portfoliorahul.ccbp.tech/)**  
 
 ## 📊 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=EtyalaRahul&theme=tokyonight)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EtyalaRahul&theme=tokyonight)](https://git.io/streak-stats)  
 [![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EtyalaRahul&show_icons=true&theme=radical)](https://github.com/EtyalaRahul)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EtyalaRahul&layout=compact&theme=tokyonight)](https://github.com/EtyalaRahul)  
 
 ## 🤝 Let's Connect  
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/etyalarahul/)**  
 - 🔢 **[LeetCode](https://leetcode.com/u/klu_2300032656/)**  
-- 📧 **Email:** rahuletyala@gmail.com | 2300032656csehte@gmail.com
-- ![profile views](https://komarev.com/ghpvc/?username=EtyalaRahulyour-github-username)
+- 📧 **Email:** rahuletyala@gmail.com | 2300032656csehte@gmail.com  
+- ![Profile Views](https://komarev.com/ghpvc/?username=EtyalaRahul&color=blue&style=flat)  
 - 💡 **Open to collaborations on exciting projects!**  
