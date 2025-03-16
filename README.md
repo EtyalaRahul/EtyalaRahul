@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Etyala Rahul  
+ # 👋 Hi, I'm Etyala Rahul  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand" />
+</p>
 
 ## 🚀 About Me  
 🎓 **Engineering Student** at **Koneru Lakshmaiah Education Foundation, Vijayawada**  
@@ -20,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
 </p>
 
 ---
@@ -33,13 +39,20 @@
 ---
 
 ## 📊 GitHub Stats  
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EtyalaRahul&theme=tokyonight" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=EtyalaRahul&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtyalaRahul&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 Fun GIFs  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/l3q2wJsC23ikRQpdG/giphy.gif" width="400" alt="Developer Life" />
 </p>
 
 ---
@@ -55,4 +68,4 @@
 
 ---
 
-💡 **Open to collaborations on exciting projects!** 🚀  
+💡 **Open to collaborations on exciting projects!** 🚀
