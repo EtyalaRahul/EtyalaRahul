@@ -17,8 +17,8 @@
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="50" height="50"/>
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50" height="50"/>
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node.js" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/paTz7UZbOoGhyP3Vli/giphy.gif" alt="MongoDB" width="50" height="50"/>
   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="Java" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" alt="MongoDB" width="50" height="50"/>
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" width="50" height="50"/>
 </p>
 
