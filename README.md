@@ -49,6 +49,8 @@
   <a href="https://www.linkedin.com/in/etyalarahul/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/klu_2300032656/"><img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/></a>
   <a href="mailto:rahuletyala@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <br/>
+  📞 **Phone:** +91 82172 87272  
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EtyalaRahul&color=blue&style=flat)  
