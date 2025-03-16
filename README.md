@@ -12,14 +12,14 @@
 
 ## 💡 Tech Stack  
 <p align="center">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="HTML" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="CSS" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node.js" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="Java" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" alt="MongoDB" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
 
 ---
