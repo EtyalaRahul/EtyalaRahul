@@ -68,7 +68,7 @@
 ## 📊 **GitHub Stats**  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EtyalaRahul&theme=tokyonight) 
-## ![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=EtyalaRahul&show_icons=true&theme=radical) 
+![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=EtyalaRahul&show_icons=true&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EtyalaRahul&layout=compact&theme=tokyonight)  
 
 ---
