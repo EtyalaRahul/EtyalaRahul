@@ -94,7 +94,4 @@
 
 💡 **Open to collaborations on exciting projects!** 🚀  
 Let's build something amazing together!  
-
-![GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
-
 --- 
