@@ -59,7 +59,7 @@
 - A food delivery app with a focus on farm-to-table freshness.  
 - Built with **React**, **Express.js**, and **MongoDB**.  
 
-### 🌐 **[Portfolio](https://portfoliorahul.ccbp.tech/)**  
+### 🌐 **[Portfolio](https://rahuletyala.ccbp.tech/)**  
 - My personal portfolio showcasing my projects, skills, and achievements.  
 - Designed with **React** and **CSS3**.  
 
