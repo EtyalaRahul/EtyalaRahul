@@ -42,7 +42,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/20d4f71b-c59d-4039-bf99-b8b7c278e6c2/deploy-status)](https://app.netlify.com/sites/rahuletyala/deploys)
 ---
 
 ## 🌟 **Featured Projects**  
