@@ -66,8 +66,6 @@
 ---
 
 ## 📊 **GitHub Stats**  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EtyalaRahul&theme=tokyonight) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EtyalaRahul&layout=compact&theme=tokyonight)  
 
 ---
