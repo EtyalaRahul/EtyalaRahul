@@ -1,12 +1,4 @@
 
----
-
-# 👋 Hi, I'm **Etyala Rahul**  
-### **Full-Stack Developer | NLP Enthusiast | Tech Explorer**  
-
-![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
-
----
 
 ## 🚀 **About Me**  
 🎓 I'm an **Engineering Student** at **Koneru Lakshmaiah Education Foundation, Vijayawada**.  
