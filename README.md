@@ -8,10 +8,6 @@
 📖 A proud learner at **Nxtwave CCBP 4.0 Academy**, where I'm honing my full-stack development skills.  
 🌱 Always excited to learn and contribute to **open-source projects**.  
 
-### 🌐 **[Portfolio](https://rahuletyala.ccbp.tech/)**  
-- My personal portfolio showcasing my projects, skills, and achievements.  
-- Designed with **React** and **CSS3**.  
-
 ## 📊 **GitHub Stats**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EtyalaRahul&layout=compact&theme=tokyonight)  
 
