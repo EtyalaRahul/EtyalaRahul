@@ -23,27 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EtyalaRahul&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EtyalaRahul&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EtyalaRahul&theme=tokyonight&hide_border=true)  
-
-</div>
-
----
-
-## 🎯 LeetCode & Competitive Programming  
-![LeetCode Stats](https://leetcard.jacoblin.cool/klu_2300032656?theme=tokyonight&font=Baloo%202&ext=contest)  
-
----
-
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=EtyalaRahul&theme=tokyonight&no-frame=true&row=1&column=6)  
-
----
-
 ## 📈 Contribution Graph  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EtyalaRahul&theme=tokyo-night)  
 
