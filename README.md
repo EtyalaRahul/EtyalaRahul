@@ -6,8 +6,10 @@
 🤖 Currently exploring **Deep learning , machine learning**  
 🎯 Actively working on **React projects** and sharpening my **problem-solving skills** on LeetCode  
 📖 A proud learner at **Nxtwave CCBP 4.0 Academy**, mastering **Full-Stack Development**  
-🌱 Always excited to learn & contribute to **Open-Source projects**  
+🌱 Always excited to learn & contribute to **Open-Source projects** 
+
 ---
+
 ## ⚡ Tech Stack  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E018?style=flat&logo=javascript&logoColor=000)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
