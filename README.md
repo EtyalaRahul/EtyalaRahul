@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 🎓 An **Engineering Student** at **Koneru Lakshmaiah Education Foundation, Vijayawada**  
 💻 Passionate about building **scalable web applications** & exploring **cutting-edge technologies**  
-🤖 Currently exploring **AI agentic technologies** like *LangChain* & *LangGraph*  
+🤖 Currently exploring **Deep learning , machine learning**  
 🎯 Actively working on **React projects** and sharpening my **problem-solving skills** on LeetCode  
 📖 A proud learner at **Nxtwave CCBP 4.0 Academy**, mastering **Full-Stack Development**  
 🌱 Always excited to learn & contribute to **Open-Source projects**  
