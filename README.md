@@ -30,7 +30,13 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EtyalaRahul&theme=tokyo-night)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EtyalaRahul&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EtyalaRahul&layout=compact&theme=tokyonight) 
+
+---
+
+## 🐍 GitHub Contribution Snake  
+
+![GitHub Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
