@@ -20,6 +20,3 @@
 ![GitHub Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
-
-## ✨ Fun Fact  
-⚡ *I love solving problems late at night with a hot cup of coffee ☕*  
