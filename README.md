@@ -14,9 +14,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EtyalaRahul&layout=compact&theme=tokyonight) 
 
 ---
-
-## 🐍 GitHub Contribution Snake  
-
-![GitHub Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
----
