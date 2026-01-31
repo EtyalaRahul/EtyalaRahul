@@ -8,9 +8,5 @@
 📖 A proud learner at **Nxtwave CCBP 4.0 Academy**, mastering **Full-Stack Development**  
 🌱 Always excited to learn & contribute to **Open-Source projects**  
 
----
-
----
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EtyalaRahul&layout=compact&theme=tokyonight) 
 
----
