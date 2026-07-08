@@ -59,7 +59,7 @@ fun_fact: "I make LLMs talk to databases and behave 😄"
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7ff5c923-f190-4433-9637-bb048e8a9e39/deploy-status)](https://app.netlify.com/projects/rahuletyala/deploys)
 </div>
 
 ---
